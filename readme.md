@@ -1,4 +1,4 @@
-# Project Name : Rode UI Clone
+# Project Name : Paytm UI Clone
 
 ### Tech Stack:
 
@@ -10,4 +10,4 @@
 ### The project looks like:
 
 
-![Screenshot](/Rode_Clone.png)
+![Screenshot](/Paytm_UI_Clone.png)
